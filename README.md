@@ -79,8 +79,8 @@ kakao map | 범위내 편의점, 숙박시설, 음식점 개수 | 100m x 100m �
 # Map 시각화 code는 용량 관계로 밑 URL을 통해 upload 하겠습니다.
 - 18,19년도 경남 시.군별 인구밀도 증감 시각화
 
-https://nbviewer.org/github/hwlim2010/2021_-Project_police_univ/blob/main/2_%28%EC%8B%9C%EA%B0%81%ED%99%94_Map%29%2018%2C19%EB%85%84%EB%8F%84_%EA%B2%BD%EB%82%A8_%EC%8B%9C.%EA%B5%B0.%EB%B3%84_%EC%9D%B8%EA%B5%AC%EB%B0%80%EB%8F%84_%EC%A6%9D%EA%B0%90.ipynb
+https://han.gl/RTcGh
 
 - 19년도 경남 범죄 별 건수
 
-https://nbviewer.org/github/hwlim2010/2021_-Project_police_univ/blob/main/2_%28%EC%8B%9C%EA%B0%81%ED%99%94_Map%29%2019%EB%85%84%EB%8F%84%20%EA%B2%BD%EB%82%A8%20%EB%B2%94%EC%A3%84%20%EB%B3%84%20%EA%B1%B4%EC%88%98.ipynb
+https://han.gl/zaeVt
